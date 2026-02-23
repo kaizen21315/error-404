@@ -174,20 +174,16 @@ a:focus {
 /* mobile screens  */
   @media (max-width: 576px) {
     h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     top: 6.7rem;
   }
 
-main{
-  margin-inline: 3rem;
-}
-
   main img{
-    width: 32rem;
+    width: 24rem;
   }
 
   .message p {
-    width: 24rem;
+    width: 23rem;
   }
 
   .message .buttons {
@@ -212,3 +208,4 @@ main{
     0%,100% { transform: translateY(10px); }
     50% { transform: translateY(-10px); }
   }
+
